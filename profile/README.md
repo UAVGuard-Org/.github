@@ -1,5 +1,4 @@
 ## UAVGuard
----
 
 ### About
 
